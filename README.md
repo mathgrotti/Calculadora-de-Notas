@@ -20,7 +20,7 @@
 ▶️Como Executar <br>
 1. Clone ou baixe este repositório: <br>
    ```bash <br>
-    git clone https://github.com/mathgrotti/Calculadora-de-Notas.git <br> <br>
+    git clone https://github.com/mathgrotti/Calculadora-de-Notas.git
      
   Abra o projeto no IntelliJ IDEA: <br>
   Importe como projeto Java existente. <br>
