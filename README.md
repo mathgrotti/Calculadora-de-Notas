@@ -15,7 +15,7 @@
 
 📲Requisitos <br>
   - Java JDK 8 ou superior (testado com Java 17). <br>
-  - IntelliJ IDEA (recomendado) ou qualquer ambiente Java (Eclipse, NetBeans, terminal). <br><br>
+  - IntelliJ IDEA (recomendado) ou qualquer ambiente Java (Eclipse, NetBeans, terminal).
 
 ▶️Como Executar <br>
 1. Clone ou baixe este repositório: <br>
